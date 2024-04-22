@@ -1,5 +1,5 @@
 
-**Data Science Portfolio **
+**Data Science Portfolio**
 **Experience:** 6+ years | Domains: Healthcare & Retail
 
 **Introduction:** Welcome to my data science portfolio! 
