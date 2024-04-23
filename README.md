@@ -15,7 +15,7 @@ Goal - Summarize the core concepts on hypothesis testing and discuss in detail t
 
 Approach - Created hypothetical business problem where we need to test if a new version of marketing content can drive significant member enrollments. Defined the hypothesis for this scenario and implemented Python code for Power Analysis to calculate sample size required to execute the A/B test successfully. 
 
-**NLP Basics in Python**
+**NLP Using Python NLTK**
 
 Goal - Summarize the steps involved in text pre-processing for a Natural Language Processing task - text classification 
 
