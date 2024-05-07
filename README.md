@@ -1,6 +1,7 @@
  
 
 **Welcome To My Data Science Portfolio!**
+
 ![Headshot](Assets/linkedIn img.jpg)
   
 
@@ -30,7 +31,7 @@ Approach - Created hypothetical business problem where we will test if a new ver
 
 ![A/B Testing](Assets/ab illustration.PNG)  
 
-[**NLP Using Python NLTK**] (NLP using Python NLTK)
+[**NLP Using Python NLTK**](NLP using Python NLTK)
 
   
 
