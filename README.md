@@ -2,7 +2,7 @@
 
 **Welcome To My Data Science Portfolio!**
 
-![Headshot](Assets/linkedIn img.jpg)
+![Headshot](Assets/linkedIn%20img.jpg)
   
 
 **About Me**
@@ -29,9 +29,9 @@ Goal - Summarize the fundamental principles of hypothesis testing and discuss in
 
 Approach - Created hypothetical business problem where we will test if a new version of marketing content can drive significant member enrollments. Demonstrated the process of experiment design and implemented Python code for Power Analysis to calculate sample size required to execute the A/B test successfully.  
 
-![A/B Testing](Assets/ab illustration.PNG)  
+![A/B Testing](Assets/ab%20illustration.PNG)  
 
-[**NLP Using Python NLTK**](NLP using Python NLTK)
+[**NLP Using Python NLTK**](NLP%20using%20Python%20NLTK)
 
   
 
@@ -41,6 +41,6 @@ Goal - Summarize the steps involved in text pre-processing for a Natural Languag
 
 Approach - Understand the nuances of NLP through a binary classification problem -predict if a SMS text is spam or not spam. Performed data exploration, text pre-processing (removing punctuations, tokenization, stemming and vectorization), feature engineering, predictive modelling (binary classification using Random Forest Classifier)  
 
- ![Natural Language Processing Fundamentals](Assets/NLTK img.jpg)
+ ![Natural Language Processing Fundamentals](Assets/NLTK%20img.jpg)
 
  
