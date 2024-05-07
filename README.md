@@ -30,6 +30,7 @@ Goal - Summarize the fundamental principles of hypothesis testing and discuss in
 Approach - Created hypothetical business problem where we will test if a new version of marketing content can drive significant member enrollments. Demonstrated the process of experiment design and implemented Python code for Power Analysis to calculate sample size required to execute the A/B test successfully.  
 
 ![A/B Testing](Assets/ab%20illustration.PNG)  
+<img src="Assets/ab%20illustration.PNG" width="200" height="300"/>
 
 [**NLP Using Python NLTK**](NLP%20using%20Python%20NLTK)
 
