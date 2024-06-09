@@ -50,5 +50,5 @@ Goal - Build a machine learning model to predict the likelihood of churn for cus
 
 Approach - Demonstrated the process of implementing machine learning to aid business strategy optimization. Performed in-depth data exploration, feature engineering and ML model development & evaluation. Developed ML experiment framework to test candidate models and log results for model selection. 
 
-![Customer Churn Likelihood Prediction - ML Model Development Process](Assets/Churn%20Prediction.png)
+![Customer Churn Likelihood Prediction - ML Model Development Process](Assets/Churn%20Prediction.PNG)
  
