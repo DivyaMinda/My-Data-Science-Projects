@@ -19,7 +19,7 @@ My expertise spans a spectrum of disciplines, from statistical analysis to machi
 
   
 
-[**A/B Testing - Power Analysis for Sample Sizing**](a-b-testing-power-analysis-in-python.ipynb)
+[![Blue]**A/B Testing - Power Analysis for Sample Sizing**](a-b-testing-power-analysis-in-python.ipynb)
 
   
 
@@ -31,7 +31,7 @@ Approach - Created hypothetical business problem where we will test if a new ver
 
 <img src="Assets/ab%20illustration.PNG" width="300" height="200"/>
 
-[**NLP Using Python NLTK**](NLP%20using%20Python%20NLTK)
+[![Blue]**NLP Using Python NLTK**](NLP%20using%20Python%20NLTK)
 
   
 
@@ -44,7 +44,7 @@ Approach - Understand the nuances of NLP through a binary classification problem
  ![Natural Language Processing Fundamentals](Assets/NLTK%20img.jpg)
 
 
-[**Predict Customer Churn Likelihood**](Customer%20Churn%20Likelihood%20Prediction.ipynb)
+[![Blue]**Predict Customer Churn Likelihood**](Customer%20Churn%20Likelihood%20Prediction.ipynb)
 
 Goal - Build a machine learning model to predict the likelihood of churn for customers of a fictional telecom company. 
 
